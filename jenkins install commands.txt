@@ -8,4 +8,4 @@ yum install jenkins -y
 systemctl start jenkins
 systemctl status jenkins
 
-
+heu
